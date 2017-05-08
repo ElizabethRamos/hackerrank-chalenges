@@ -11,7 +11,7 @@ for a_i in range(n):
 
 soma_princ = 0 
 i = 0
-while i<n:
+while i < n:
     soma_princ = soma_princ + a[i][i]
     i = i + 1
 
